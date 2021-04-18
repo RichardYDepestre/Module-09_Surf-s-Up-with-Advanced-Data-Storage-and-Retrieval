@@ -18,8 +18,9 @@ executing database-agnostic code without needing to write SQL statements.'
 
 ## Analysis
 
-The June [historical][1] and [summary][2] temperature datasets shows that the weather was hot in Oahu; it fluctuated between 71 and \
-80.0 degrees farenheit. December's [historical][3] and [summary][4] was not as hot but showed temperature marks between 66.0 and 77.0 degrees. \
+The June [historical][1] and [summary][2] temperature datasets show that the weather was hot in Oahu; it \
+fluctuated between 71 and 80.0 degrees farenheit. December's [historical][3] and [summary][4] was not as \
+hot but showed temperature marks between 66.0 and 77.0 degrees. \
 Below are the key observations that we make:
 - The summary data shows a ~4 degree difference between the two months;
 - The maximum temperature appeals to both activities: surfing and ice cream;
