@@ -18,17 +18,21 @@ executing database-agnostic code without needing to write SQL statements.'
 
 ## Analysis
 
-The June historical temperature dataset [June][1] show that the weather was hot in Oahu; it fluctuated between 71 and \
-80.0 degrees farenheit. December was not as hot but showed temperature marks between 66.0 and 77.0 degrees. \
-The summary data 
-q) How many roles will need to be filled as the "silver tsunami" begins to make an impact? \
-a) We found, by other of numerical importance, that the following roles will require immediate consideration as to filling them. They are listed in the following table [Retiring Titles](../Pewlett-Hackard-analysis/data/retiring_titles.csv). A total of 90398 employees would be impacted.
+The [June][1][2] historical temperature dataset shows that the weather was hot in Oahu; it fluctuated between 71 and \
+80.0 degrees farenheit. [December][3][4] was not as hot but showed temperature marks between 66.0 and 77.0 degrees. \
+Below are the key observations that we make:
+- The summary data shows a ~4 degree difference between the two months;
+- The maximum temperature appeals to both activities: surfing and ice cream;
+- The drop in temperature is significant around the last days of december.
 
-q) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? \
-a) Short answer is yes there are. However, we find that the number of employees slated to be mentored is infinitely small considering the number high quality resources slated to retired.
 
 ## Conclusion
 
-#### We believe that we have provided enough data to the manager and assist him in his decision. There are quite a number of employees that fall within the retiring data ranges used in this analysis. We would also reiterate a fact that we observed and documented: the number of employees flagged for mentorship seem small
+We believe opening an ice cream and surf shop in Oahu is sustainable. The temperature in June and December will \
+be attractive to visitors. As show in the attached summary snapshots on avarage, for both months, the temperature is \
+above 71 degrees.
 
 [1]:https://github.com/RichardYDepestre/surfs_up/blob/main/images/m10_challenge_temp_june.jpg
+[2]:https://github.com/RichardYDepestre/surfs_up/blob/main/images/m10_challenge_temp_summary_june.jpg
+[3]:https://github.com/RichardYDepestre/surfs_up/blob/main/images/m10_challenge_temp_dec.jpg
+[4]:https://github.com/RichardYDepestre/surfs_up/blob/main/images/m10_challenge_temp_summary_dec.jpg
