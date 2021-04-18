@@ -18,7 +18,7 @@ executing database-agnostic code without needing to write SQL statements.'
 
 ## Analysis
 
-The June historical temperature dataset [Markdown][1] show that the weather was hot in Oahu; it fluctuated between 71 and \
+The June historical temperature dataset [June][1] show that the weather was hot in Oahu; it fluctuated between 71 and \
 80.0 degrees farenheit. December was not as hot but showed temperature marks between 66.0 and 77.0 degrees. \
 The summary data 
 q) How many roles will need to be filled as the "silver tsunami" begins to make an impact? \
@@ -31,4 +31,4 @@ a) Short answer is yes there are. However, we find that the number of employees 
 
 #### We believe that we have provided enough data to the manager and assist him in his decision. There are quite a number of employees that fall within the retiring data ranges used in this analysis. We would also reiterate a fact that we observed and documented: the number of employees flagged for mentorship seem small
 
-[1]:
+[1]:https://github.com/RichardYDepestre/surfs_up/blob/main/images/m10_challenge_temp_june.jpg
